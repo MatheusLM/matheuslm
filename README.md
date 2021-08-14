@@ -1,16 +1,17 @@
-### Hi there 👋
+<div>
+  <a href="https://github.com/MatheusLM">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusLM&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLM&theme=tokyonight&layout=compact&langs_count=4"/>
+  </a>
+</div>
 
-<!--
-**MatheusLM/matheuslm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F">
+  <img src="https://img.shields.io/static/v1?label=&message=React%20Native&color=blue">
+  <img src="https://img.shields.io/static/v1?label=&message=CSS&color=264de4">
+  <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=green">
+  <img src="https://img.shields.io/static/v1?label=&message=Python&color=4B8BBE">
+  <img src="https://img.shields.io/static/v1?label=&message=PHP&color=8993be">
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=00758F">
+  <img src="https://komarev.com/ghpvc/?username=MatheusLM&color=blue&style=flat" alt="MatheusLM&color=blue" />
+</div>
