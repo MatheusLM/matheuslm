@@ -7,7 +7,7 @@
 
 <div>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
-  <figure><embed src="https://wakatime.com/share/@MatheusLM/1766d69b-ac29-4b41-b22e-4098a7206132.svg"></embed></figure>
+  <image src="https://wakatime.com/share/@MatheusLM/1766d69b-ac29-4b41-b22e-4098a7206132.svg"/>
 </div>
 
 <div>
