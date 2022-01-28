@@ -1,13 +1,13 @@
 <div>
   <a href="https://github.com/MatheusLM">
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusLM&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true"/>
-    <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLM&theme=tokyonight&layout=compact&langs_count=4"/>
+    <img height="179em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLM&theme=tokyonight&layout=compact&langs_count=4"/>
   </a>
 </div>
 
 <div>
   <a href="https://github.com/MatheusLM">
-    <img width="90%" height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
+    <img width="100%" height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
   </a>
 </div>
 
