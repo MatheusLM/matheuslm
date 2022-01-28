@@ -6,6 +6,11 @@
 </div>
 
 <div>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
+  <figure><embed src="https://wakatime.com/share/@MatheusLM/1766d69b-ac29-4b41-b22e-4098a7206132.svg"></embed></figure>
+</div>
+
+<div>
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F">
   <img src="https://img.shields.io/static/v1?label=&message=Phaser&color=72009c">
   <img src="https://img.shields.io/static/v1?label=&message=CSS&color=264de4">
@@ -14,7 +19,3 @@
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=00758F">
   <img src="https://komarev.com/ghpvc/?username=MatheusLM&color=blue&style=flat" alt="MatheusLM&color=blue" />
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
-
-[![Matheus wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
