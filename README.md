@@ -15,4 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=MatheusLM&color=blue&style=flat" alt="MatheusLM&color=blue" />
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
+
 [![Matheus wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
