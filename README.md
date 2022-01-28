@@ -14,3 +14,5 @@
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=00758F">
   <img src="https://komarev.com/ghpvc/?username=MatheusLM&color=blue&style=flat" alt="MatheusLM&color=blue" />
 </div>
+
+[![Matheus wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM)](https://github.com/anuraghazra/github-readme-stats)
