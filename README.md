@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/MatheusLM">
-    <img width="100%" height="100px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
   </a>
 </div>
 
