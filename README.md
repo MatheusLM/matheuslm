@@ -1,6 +1,7 @@
 <p align="center">
     <img style="width: 50%;" src="https://metrics.lecoq.io/MatheusLM?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FSao_Paulo" />
-
+</p>
+<p align="center">
   <div>
     <a href="https://github.com/MatheusLM">
       <img height="165px" width="50%" src="https://github-readme-stats.vercel.app/api?username=MatheusLM&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true"/>
@@ -8,6 +9,7 @@
     </a>
   </div>
   <hr>
+</p>
 
   <!--
   <div>
@@ -17,6 +19,7 @@
   </div>
   -->
 
+<p align="center">
   <div>
     <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F">
     <img src="https://img.shields.io/static/v1?label=&message=Phaser&color=72009c">
