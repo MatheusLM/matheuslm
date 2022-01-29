@@ -5,11 +5,13 @@
   </a>
 </div>
 
+<!--
 <div>
   <a href="https://github.com/MatheusLM">
     <img width="99.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
   </a>
 </div>
+-->
   
 <div>
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F">
