@@ -1,5 +1,5 @@
 <img src="https://metrics.lecoq.io/MatheusLM?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FSao_Paulo" />
-##
+</hr>
 <div>
   <a href="https://github.com/MatheusLM">
     <img height="165px" width="50%" src="https://github-readme-stats.vercel.app/api?username=MatheusLM&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true"/>
