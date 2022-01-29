@@ -13,7 +13,7 @@
 </div>
 -->
 
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+![Metrics](https://metrics.lecoq.io/MatheusLM?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FSao_Paulo)
 
 <div>
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F">
