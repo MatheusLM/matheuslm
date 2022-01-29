@@ -12,7 +12,7 @@
   </a>
 </div>
 -->
-<div style="display: flex; justify-content: space-between">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
   <div>
     <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F">
     <img src="https://img.shields.io/static/v1?label=&message=Phaser&color=72009c">
