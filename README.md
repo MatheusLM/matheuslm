@@ -13,7 +13,7 @@
 </div>
 -->
 
-![Metrics](/metrics.plugin.habits.charts.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 <div>
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F">
