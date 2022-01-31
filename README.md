@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img style="width: 60%;" src="https://metrics.lecoq.io/MatheusLM?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FSao_Paulo" />
 </p>
+-->
 
 <div>
   <a href="https://github.com/MatheusLM">
