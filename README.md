@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=PHP&color=8993be">
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=00758F">
 
-  <img src="https://wakatime.com/badge/user/9920dcc3-db5f-4fef-8d88-02d081e3aa2e.sv" align="right"/>
+  <img src="https://wakatime.com/badge/user/9920dcc3-db5f-4fef-8d88-02d081e3aa2e.svg?a=1" align="right"/>
 </div>
 <div>
     <img src="https://komarev.com/ghpvc/?username=MatheusLM&color=blue&style=flat" alt="MatheusLM&color=blue" align="right"/>
