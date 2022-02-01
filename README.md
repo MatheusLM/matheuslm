@@ -1,7 +1,6 @@
 <!--
-<p align="center">
-  <img style="width: 60%;" src="https://metrics.lecoq.io/MatheusLM?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FSao_Paulo" />
-</p>
+<img width="99.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
+<img height="165px" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLM&theme=tokyonight&layout=compact&langs_count=4"/>
 -->
 
 <div>
@@ -11,11 +10,6 @@
   </a>
 </div>
 <hr>
-
-<!--
-<img width="99.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=blueberry"/>
-<img height="165px" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLM&theme=tokyonight&layout=compact&langs_count=4"/>
--->
 
 <div>
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F">
