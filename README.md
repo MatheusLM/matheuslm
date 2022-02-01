@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=PHP&color=8993be">
   <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=00758F">
 
-  <a href="https://wakatime.com/@9920dcc3-db5f-4fef-8d88-02d081e3aa2e" align="right"><img src="https://wakatime.com/badge/user/9920dcc3-db5f-4fef-8d88-02d081e3aa2e.svg" alt="Total time coded since Dec 16 2020" /></a>
+  <a href="https://wakatime.com/@9920dcc3-db5f-4fef-8d88-02d081e3aa2e"><img src="https://wakatime.com/badge/user/9920dcc3-db5f-4fef-8d88-02d081e3aa2e.svg" alt="Total time coded since Dec 16 2020" align="right"/></a>
 </div>
 <div>
     <img src="https://komarev.com/ghpvc/?username=MatheusLM&color=blue&style=flat" alt="MatheusLM&color=blue" align="right"/>
