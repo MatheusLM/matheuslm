@@ -4,8 +4,8 @@
 -->
 
 <a href="https://wakatime.com/@MatheusLM">
-  <img height="165px" width="43.5%" src="https://github-readme-stats.vercel.app/api?username=MatheusLM&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs"/>
-  <img height="165px" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=tokyonight&langs_count=4"/>
+  <img height="165px" width="43.5%" src="https://github-readme-stats.vercel.app/api?username=MatheusLM&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs&hide_border=true"/>
+  <img height="165px" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=tokyonight&hide_border=true&langs_count=4"/>
 </a>
 <hr>
 
