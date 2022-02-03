@@ -10,8 +10,8 @@
 <hr>
 
 <div>
+  <img src="https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC">
   <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=F0DB4F">
-  <img src="https://img.shields.io/static/v1?label=&message=Phaser&color=72009c">
   <img src="https://img.shields.io/static/v1?label=&message=CSS&color=264de4">
   <img src="https://img.shields.io/static/v1?label=&message=Python&color=4B8BBE">
   <img src="https://img.shields.io/static/v1?label=&message=PHP&color=8993be">
