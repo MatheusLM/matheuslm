@@ -5,7 +5,7 @@
 
 <a href="https://wakatime.com/@MatheusLM">
   <img height="165px" width="43.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=matheuslm&theme=dark&hide_border=true"/>
-  <img height="165px" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=dark&hide_border=true&langs_count=4"/>
+  <img height="165px" width="56%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=dark&hide_border=true&langs_count=4"/>
 </a>
 <hr>
 
