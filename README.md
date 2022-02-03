@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/static/v1?label=&message=CSS&color=264de4">
   <img src="https://img.shields.io/static/v1?label=&message=Python&color=4B8BBE">
   <img src="https://img.shields.io/static/v1?label=&message=PHP&color=8993be">
-  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=00758F">
 
   <img src="https://wakatime.com/badge/user/9920dcc3-db5f-4fef-8d88-02d081e3aa2e.svg?1" align="right"/>
 </div>
