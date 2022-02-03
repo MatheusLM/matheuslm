@@ -20,5 +20,6 @@
   <img src="https://wakatime.com/badge/user/9920dcc3-db5f-4fef-8d88-02d081e3aa2e.svg?1" align="right"/>
 </div>
 <div>
-    <img src="https://komarev.com/ghpvc/?username=MatheusLM&color=blue&style=flat" alt="MatheusLM&color=blue" align="right"/>
+  <a href="https://www.linkedin.com/in/matheuslm/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)</a>
+  <img src="https://komarev.com/ghpvc/?username=MatheusLM&color=blue&style=flat" alt="MatheusLM&color=blue" align="right"/>
 </div>
