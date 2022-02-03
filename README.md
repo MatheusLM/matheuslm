@@ -21,7 +21,7 @@
 </div>
 <div>
   <a href="https://www.linkedin.com/in/matheuslm/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
   <img src="https://komarev.com/ghpvc/?username=MatheusLM&color=blue&style=flat" alt="MatheusLM&color=blue" align="right"/>
 </div>
