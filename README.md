@@ -3,6 +3,16 @@
 <img height="165px" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLM&theme=tokyonight&layout=compact&langs_count=4"/>
 -->
 
+# Hello 👋,
+##### My name is Matheus, I'm 21 years old and I'm game developer.
+
+*I am currently using the following technologies:*<br>
+`TypeScript | JavaScript | CSS | HTML | Python`
+
+My first contact with programming was in 2015, when I studied web development at SENAI/SC, since then, I seek knowledge in various ways, always trying to keep up to date and with the latest technologies.
+
+*//see my socials on end of this section*
+
 <a href="https://wakatime.com/@MatheusLM">
   <img height="165px" width="41.25%" src="http://github-readme-streak-stats.herokuapp.com?user=matheuslm&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=E38214&currStreakNum=E38214&sideLabels=E38214&ring=E38214&date_format=j%20M%5B%20Y%5D"/>
   <img height="165px" width="58.25%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=dark&hide_border=true&langs_count=4"/>
