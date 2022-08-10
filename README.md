@@ -18,7 +18,7 @@ My first contact with programming was in 2015, when I studied web development at
   <img height="165px" width="58.25%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLM&layout=compact&theme=light&hide_border=true&langs_count=4"/>
 </a>
 <img src="https://wakatime.com/share/@MatheusLM/2e8bd761-8882-48cc-a907-55eff992edab.png" width="100%"/>
-<figure><img src="https://wakatime.com/share/@MatheusLM/a3751917-af50-4070-9c87-7e5e459d135a.svg"/></figure>
+<figure><embed src="https://wakatime.com/share/@MatheusLM/a3751917-af50-4070-9c87-7e5e459d135a.svg"/></figure>
 <hr>
 
 <div>
