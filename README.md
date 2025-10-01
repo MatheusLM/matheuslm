@@ -4,7 +4,7 @@
 -->
 
 # Hello 👋,
-### My name is Matheus, I'm 22 years old and I'm game developer.
+### My name is Matheus, I'm 25 years old and I'm game developer.
 
 *I am currently using the following technologies:*<br>
 `TypeScript | Electron | CSS | Python`
