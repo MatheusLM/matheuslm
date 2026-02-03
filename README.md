@@ -7,7 +7,7 @@
 ### My name is Matheus, I'm 25 years old and I'm game developer.
 
 *I am currently using the following technologies:*<br>
-`TypeScript | Electron | CSS | Python`
+`TypeScript | JavaScript | PIXI | Phaser | GSAP | CSS | HTML`
 
 My first contact with programming was in 2015, when I studied web development at SENAI/SC, since then, I seek knowledge in various ways, always trying to keep up to date and with the latest technologies.
 
